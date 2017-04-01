@@ -1,6 +1,6 @@
 # hello-world
-Testing
+Testing, again.
 
-Here hoping 2016 will be a great year!
+Here hoping 2017 will be a great year!
 
-Brian here, working on being a front-end web developer. I enjoy games of all types and reading.
+Brian here, still working, still learning, keep up the progress. 
